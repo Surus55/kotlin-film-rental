@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">filmkolcsonzo</string>
+
+    <!-- User interface texts -->
+    <string name="user_panel_title">User Panel</string>
+    <string name="btn_available_films">Available Movies</string>
+    <string name="btn_my_rentals">My Rentals</string>
+    <string name="btn_logout">Log Out</string>
+    <string name="btn_rent">Rent</string>
+    <string name="btn_return">Return</string>
+
+</resources>

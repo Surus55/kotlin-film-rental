@@ -1,0 +1,20 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+app/build/
+.kotlin/
+
+# Local configuration
+local.properties
+
+# Generated files
+*.apk
+*.aab
+
+# Signing keys
+*.jks
+*.keystore

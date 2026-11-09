@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">filmkolcsonzo</string>
+
+    <!-- Felhasználói felület szövegek -->
+    <string name="user_panel_title">Felhasználói Panel</string>
+    <string name="btn_available_films">Elérhető Filmek</string>
+    <string name="btn_my_rentals">Saját Kölcsönzéseim</string>
+    <string name="btn_logout">Kijelentkezés</string>
+    <string name="btn_rent">Kölcsönzés</string>
+    <string name="btn_return">Visszahozás</string>
+
+</resources>
